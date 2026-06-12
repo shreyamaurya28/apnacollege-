@@ -1,4 +1,4 @@
 # apnacollege-
 I Want to Write1st repository
-<b/>
-Author - Shreya Maurya
+<br>
+Author - Shreya ( Maurya)
